@@ -1,0 +1,12 @@
+{
+  "name": "dokcerizing-nodejs-app",
+  "version": "1.0.0",
+  "description": "Example of dockerizing a nodejs app using volumes",
+  "main": "server.js",
+  "author": "Hayk Simonyan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
